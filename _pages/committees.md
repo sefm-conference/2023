@@ -5,7 +5,7 @@ permalink: /comittees/
 order: 4
 ---
 ## Programme Committee Chairs
-[Carla Ferreira](http://ctp.di.fct.unl.pt/~cf/), NOVA University of Lisbon, Portugal
+[Carla Ferreira](http://ctp.di.fct.unl.pt/~cf/), NOVA University of Lisbon, Portugal  
 [Tim Willemse](https://www.win.tue.nl/~timw/), Eindhoven University of Technology, The Netherlands
 
 ## Programme Committee
