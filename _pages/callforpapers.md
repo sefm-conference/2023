@@ -5,92 +5,82 @@ subtitle:
 permalink: /callforpapers/
 order: 5
 ---
-<h2>Overview and Scope</h2>
-<p>The 21st edition of the International Conference on Software Engineering and
-Formal Methods will be held between <b>6 and 10 November 2023</b>. The conference
+## Overview and Scope
+The 21st edition of the International Conference on Software Engineering and
+Formal Methods will be held between *8 and 10 November 2023*. The conference
 aims to bring together researchers and practitioners from academia, industry and
 government, to advance the state of the art in formal methods, to facilitate their
- uptake in the software industry, and to encourage their integration within practical
-  software engineering methods and tools.
-</p>
+uptake in the software industry, and to encourage their integration within practical
+software engineering methods and tools.
 
-<p>The topics of interest include, but are not limited to, the following aspects of
-software engineering and formal methods.</p>
+
+The topics of interest include, but are not limited to, the following aspects of
+software engineering and formal methods.
 
 <h4 class="areas">Software Development Methods</h4>
-<ul>
-  <li><b>Formal modeling, specification, and design</b></li>
-  <li><b>Software evolution, maintenance, re-engineering, and reuse</b></li>
-</ul>
+- *Formal modeling, specification, and design*
+- *Software evolution, maintenance, re-engineering, and reuse*
 
 <h4 class="areas">Design Principles</h4>
-<ul>
-  <li><b>Programming languages</b></li>
-  <li><b>Domain-specific languages</b></li>
-  <li><b>Type theory</b></li>
-  <li><b>Abstraction and refinement</b></li>
-</ul>
+- *Programming languages*
+- *Domain-specific languages*
+- *Type theory*
+- *Abstraction and refinement*
 
 <h4 class="areas">Software Testing, Validation, and Verification</h4>
-<ul>
-  <li><b>Model checking, theorem proving, and decision procedures</b></li>
-  <li><b>Testing and runtime verification</b></li>
-  <li><b>Statistical and probabilistic analysis</b></li>
-  <li><b>Software synthesis</b></li>
-  <li><b>Lightweight and scalable formal methods</b></li>
-  <li><b>Analysis of dependability, performance and other non-functional properties</b></li>
-  <li><b>Resilience, security, privacy, and trust</b></li>
-  <li><b>Safety-critical, fault-tolerant, and secure systems</b></li>
-  <li><b>Software assurance and certification</b></li>
-</ul>
+- *Model checking, theorem proving, and decision procedures*
+- *Testing and runtime verification*
+- *Statistical and probabilistic analysis*
+- *Software synthesis*
+- *Lightweight and scalable formal methods*
+- *Analysis of dependability, performance and other non-functional properties*
+- *Resilience, security, privacy, and trust*
+- *Safety-critical, fault-tolerant, and secure systems*
+- *Software assurance and certification*
 
 <h4 class="areas">Applications and Technology Transfer</h4>
-<ul>
-  <li><b>Self-adaptive systems</b></li>
-  <li><b>Service-oriented and cloud computing systems, Internet of Things</b></li>
-  <li><b>Component-based and multi-agent systems</b></li>
-  <li><b>Real-time, hybrid, and cyber-physical systems</b></li>
-  <li><b>Intelligent systems and machine learning</b></li>
-  <li><b>HCI, interactive systems, and human error analysis</b></li>
-  <li><b>Education</b></li>
-</ul>
+- *Self-adaptive systems*
+- *Service-oriented and cloud computing systems, Internet of Things*
+- *Component-based and multi-agent systems*
+- *Real-time, hybrid, and cyber-physical systems*
+- *Intelligent systems and machine learning*
+- *HCI, interactive systems, and human error analysis*
+- *Education*
 
 <h4 class="areas">Case studies, best practices, and experience reports</h4>
 
 <h2 class="importantH">Paper submission</h2>
 
-<p>Details about paper submission will be announced soon.</p>
+Details about paper submission will be announced soon.
 
-<!-- <p>We solicit two categories of papers:</p>
+<!--
+We solicit two categories of papers:
+- *Regular papers* describing original research results, case studies, or surveys.
+Regular papers should not exceed *15 pages*, excluding bibliography.  
+Two more pages containing only references are permitted.
+- *Tool papers* that describe an operational tool and its contributions. Tool papers should not exceed
+*6 pages* (including bibliography) and should include the URL of the tool.
 
-<ul>
-  <li><p><b>Regular papers</b> describing original research results, case studies, or surveys.
-   Regular papers should not exceed <b>15 pages</b>, excluding bibliography. <br>Two more pages containing only
-   references are permitted.</p></li>
-   <li><p><b>Tool papers</b> that describe an operational tool and its contributions. Tool papers should not exceed
-   <b>6 pages</b> (including bibliography) and should include the URL of the tool.
-</p></li>
-</ul>
+All submissions must be original, unpublished, and not submitted concurrently for publication elsewhere. 
 
-<p>All submissions must be original, unpublished, and not submitted concurrently for publication elsewhere. </p>
+### Submission
 
-<h3>Submission</h3>
+Paper submission is done via EasyChair:
+[https://easychair.org/conferences/?conf=sefm2023](https://easychair.org/conferences/?conf=sefm2023)
 
-<p>Paper submission is done via EasyChair:
-<a href="https://easychair.org/conferences/?conf=sefm2023">https://easychair.org/conferences/?conf=sefm2023</a>
-<br><br>Papers must be formatted according to the <a href="https://www.springer.com/gb/computer-science/lncs/conference-proceedings-guidelines">guidelines for Springer LNCS papers.</a>
-</p>
+Papers must be formatted according to the [guidelines for Springer LNCS papers](https://www.springer.com/gb/computer-science/lncs/conference-proceedings-guidelines).
+
 
 <h2 class="importantH">Publication</h2>
 
-<p>All accepted papers will appear in the proceedings of the conference, which will be published
-as a volume in Springer's Lecture Notes in Computer Science series.</p>
+All accepted papers will appear in the proceedings of the conference, which will be published
+as a volume in Springer's Lecture Notes in Computer Science series.
 
 <h2 class="importantH">Important dates</h2>
-<ul>
-  <li>Abstract submission: TBD
-  <li>Paper submission: TBD
-  <li>Author notification: TBD
-  <li>Camera-ready submission: TBD
-  <li>Conference: 7-10 November 2023</li>
-</ul> -->
+- Abstract submission: TBD
+- Paper submission: TBD
+- Author notification: TBD
+- Camera-ready submission: TBD
+- Workshops: 6-7 November 2023
+- Conference: 8-10 November 2023
+-->
