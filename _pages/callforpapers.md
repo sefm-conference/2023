@@ -5,10 +5,20 @@ subtitle:
 permalink: /callforpapers/
 order: 5
 ---
-## Overview and Scope
 The 21st edition of the International Conference on Software Engineering and
-Formal Methods will be held between *8 and 10 November 2023*. The conference
-aims to bring together researchers and practitioners from academia, industry and
+Formal Methods will be held between *8 and 10 November 2023*, with workshops taking place on 6 and 7 November 2023.
+
+## Important dates
+- Abstract submission: 2 June 2023 (AoE)
+- Paper submission: 9 June 2023 (AoE) 
+- Author notification: 18 August 2023
+- Camera-ready submission: 10 September 2023
+- Workshops: 6-7 November 2023
+- Conference: 8-10 November 2023
+
+## Overview and Scope
+
+The conference aims to bring together researchers and practitioners from academia, industry and
 government, to advance the state of the art in formal methods, to facilitate their
 uptake in the software industry, and to encourage their integration within practical
 software engineering methods and tools.
@@ -18,69 +28,55 @@ The topics of interest include, but are not limited to, the following aspects of
 software engineering and formal methods.
 
 <h4 class="areas">Software Development Methods</h4>
-- *Formal modeling, specification, and design*
-- *Software evolution, maintenance, re-engineering, and reuse*
+- Formal modelling, specification, and design
+- Software evolution, maintenance, re-engineering, and reuse
 
 <h4 class="areas">Design Principles</h4>
-- *Programming languages*
-- *Domain-specific languages*
-- *Type theory*
-- *Abstraction and refinement*
+- Programming languages
+- Domain-specific languages
+- Type theory
+- Abstraction and refinement
 
 <h4 class="areas">Software Testing, Validation, and Verification</h4>
-- *Model checking, theorem proving, and decision procedures*
-- *Testing and runtime verification*
-- *Statistical and probabilistic analysis*
-- *Software synthesis*
-- *Lightweight and scalable formal methods*
-- *Analysis of dependability, performance and other non-functional properties*
-- *Resilience, security, privacy, and trust*
-- *Safety-critical, fault-tolerant, and secure systems*
-- *Software assurance and certification*
+- Model checking, theorem proving, and decision procedures
+- Testing and runtime verification
+- Statistical and probabilistic analysis
+- Synthesis
+- Performance estimation and analysis of other non-functional
+properties
+- Other light-weight and scalable formal methods
+
+<h4 class="areas">Security and Safety</h4>
+- Security, privacy, and trust
+- Safety-critical, fault-tolerant, and secure systems
+- Software certification
 
 <h4 class="areas">Applications and Technology Transfer</h4>
-- *Self-adaptive systems*
-- *Service-oriented and cloud computing systems, Internet of Things*
-- *Component-based and multi-agent systems*
-- *Real-time, hybrid, and cyber-physical systems*
-- *Intelligent systems and machine learning*
-- *HCI, interactive systems, and human error analysis*
-- *Education*
+- Service-oriented and cloud computing systems, Internet of Things
+- Component, object, multi-agent and self-adaptive systems
+- Real-time, hybrid, and cyber-physical systems
+- Intelligent systems and machine learning
+- HCI, interactive systems, and human error analysis
+- Education
 
 <h4 class="areas">Case studies, best practices, and experience reports</h4>
 
-<h2 class="importantH">Paper submission</h2>
+## Paper submission
 
-Details about paper submission will be announced soon.
-
-<!--
 We solicit two categories of papers:
-- *Regular papers* describing original research results, case studies, or surveys.
-Regular papers should not exceed *15 pages*, excluding bibliography.  
-Two more pages containing only references are permitted.
-- *Tool papers* that describe an operational tool and its contributions. Tool papers should not exceed
-*6 pages* (including bibliography) and should include the URL of the tool.
 
+- **Regular papers** describing original research results, case studies, or surveys, should not exceed *16 pages* (excluding bibliograph of at most two pages).
+- **Tool papers** that describe an operational tool and its contributions should not exceed *8 pages*.
+
+Papers must be formatted according to the [guidelines for Springer LNCS papers](https://www.springer.com/gp/computer-science/lncs).
 All submissions must be original, unpublished, and not submitted concurrently for publication elsewhere. 
 
-### Submission
+The submission site for papers will be opened soon.
+<!-- [https://easychair.org/conferences/?conf=sefm2023](https://easychair.org/conferences/?conf=sefm2023) -->
 
-Paper submission is done via EasyChair:
-[https://easychair.org/conferences/?conf=sefm2023](https://easychair.org/conferences/?conf=sefm2023)
+## Publication
 
-Papers must be formatted according to the [guidelines for Springer LNCS papers](https://www.springer.com/gb/computer-science/lncs/conference-proceedings-guidelines).
+All accepted papers will appear in the proceedings of the conference that will
+be published as a volume in Springer's LNCS series. 
 
-
-<h2 class="importantH">Publication</h2>
-
-All accepted papers will appear in the proceedings of the conference, which will be published
-as a volume in Springer's Lecture Notes in Computer Science series.
-
-<h2 class="importantH">Important dates</h2>
-- Abstract submission: TBD
-- Paper submission: TBD
-- Author notification: TBD
-- Camera-ready submission: TBD
-- Workshops: 6-7 November 2023
-- Conference: 8-10 November 2023
--->
+The authors of a selected subset of accepted papers will be invited to submit extended versions of their papers to special issues of the journal "Software and Systems Modeling" (SoSyM).
