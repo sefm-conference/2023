@@ -11,6 +11,13 @@ order: 4
 ## Programme Committee
 TBA
 
+## Artefact Evaluation Committee Chairs
+[Mário Pereira](https://mariojppereira.github.io/), NOVA University of Lisbon, Portugal  
+[Flip van Spaendonck](https://research.tue.nl/nl/persons/flip-van-spaendonck), Eindhoven University of Technology, The Netherlands
+
+## Artefact Evaluation Committee
+TBA
+
 ## Organising Committee
 [Jeroen Keiren](http://jeroenkeiren.nl/), Eindhoven University of Technology, The Netherlands  
 [Thomas Neele](https://tneele.com/), Eindhoven University of Technology, The Netherlands
