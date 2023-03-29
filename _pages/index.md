@@ -5,7 +5,7 @@ permalink: /
 
 <h2 class="secondH">Welcome to SEFM 2023</h2>
 The 21st edition of the International Conference on Software Engineering and
-Formal Methods will be held between 7 and 10 November 2023.
+Formal Methods will be held between 6 and 10 November 2023.
 
 The conference aims to bring together researchers and practitioners from academia,
 industry and government, to advance the state of the art in formal methods,

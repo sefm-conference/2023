@@ -74,9 +74,13 @@ All submissions must be original, unpublished, and not submitted concurrently fo
 The submission site for papers will be opened soon.
 <!-- [https://easychair.org/conferences/?conf=sefm2023](https://easychair.org/conferences/?conf=sefm2023) -->
 
+## Artefact Evaluation
+
+This edition of SEFM introduces an artefact evaluation (AE). An artefact contains any necessary material to support the claims made in the paper and ideally makes the results fully reproducible. Submission of an artefact is **optional for regular papers** and **mandatory for tool papers**. The artefacts will be judged by the Artefact Evaluation Committee (AEC). Details of the AE procedure will be published on this website soon.
+
 ## Publication
 
 All accepted papers will appear in the proceedings of the conference that will
 be published as a volume in Springer's LNCS series. 
 
-The authors of a selected subset of accepted papers will be invited to submit extended versions of their papers to special issues of the journal "Software and Systems Modeling" (SoSyM).
+The authors of a selected subset of accepted papers will be invited to submit extended versions of their papers to special issues of the journal [Software and Systems Modeling](https://www.springer.com/journal/10270) (SoSyM).
