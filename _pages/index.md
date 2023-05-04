@@ -19,11 +19,12 @@ at the conference.
 
 ## Important dates
 - Abstract submission: 2 June 2023 (AoE)
-- Paper submission: 9 June 2023 (AoE) 
+- Paper submission: 9 June 2023 (AoE)
+- Artifact submission: 16 June 2023 (AoE)
 - Author notification: 18 August 2023
 - Camera-ready submission: 10 September 2023
 - Workshops: 6-7 November 2023
 - Conference: 8-10 November 2023
 
 ## Sponsors
-TBA
+![NWO logo](assets/nwo.jpg)
