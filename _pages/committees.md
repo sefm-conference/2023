@@ -20,6 +20,7 @@ order: 4
 [Adrian Francalanza](https://staff.um.edu.mt/afra1/), University of Malta  
 [Hubert Garavel](https://convecs.inria.fr/people/Hubert.Garavel/), INRIA  
 [Silvia Ghilezan](http://imft.ftn.uns.ac.rs/silvia/Main), University of Novi Sad, Mathematical Institute SASA  
+[Mario Gleirscher](https://www.gleirscher.at/mg/), University of Bremen  
 [Christian Johansen](https://christian.johansenresearch.info/), Norwegian University of Science and Technology  
 [Daniela Kaufmann](https://danielakaufmann.at/), TU Wien  
 [Zhiming Liu](http://computer.swu.edu.cn/zhimingliu), Southwest University  
