@@ -10,8 +10,9 @@ Formal Methods will be held between *8 and 10 November 2023*, with workshops tak
 
 ## Important dates
 - Abstract submission: 2 June 2023 (AoE)
-- Paper submission: 9 June 2023 (AoE) 
-- Artifact submission: 16 June 2023 (AoE)
+- Paper submission: 9 June 2023 (AoE)
+- Artifact submission (tool papers): 9 June 2023 (AoE)
+- Artifact submission (regular papers): 16 June 2023 (AoE)
 - Author notification: 18 August 2023
 - Camera-ready submission: 10 September 2023
 - Workshops: 6-7 November 2023
@@ -66,7 +67,7 @@ properties
 
 We solicit two categories of papers:
 
-- **Regular papers** describing original research results, case studies, or surveys, should not exceed *16 pages* (excluding bibliograph of at most two pages).
+- **Regular papers** describing original research results, case studies, or surveys, should not exceed *16 pages* (excluding bibliography of at most two pages).
 - **Tool papers** that describe an operational tool and its contributions should not exceed *8 pages*.
 
 Papers must be formatted according to the [guidelines for Springer LNCS papers](https://www.springer.com/gp/computer-science/lncs).
@@ -77,7 +78,7 @@ The submission site for papers will be opened soon.
 
 ## Artefact Evaluation
 
-This edition of SEFM introduces an artefact evaluation (AE). An artefact contains any necessary material to support the claims made in the paper and ideally makes the results fully reproducible. Submission of an artefact is **optional for regular papers** and **mandatory for tool papers**. The artefacts will be judged by the Artefact Evaluation Committee (AEC). Details of the AE procedure will be published on this website soon.
+This edition of SEFM introduces an artefact evaluation (AE). An artefact contains any necessary material to support the claims made in the paper and ideally makes the results fully reproducible. Submission of an artefact is **optional for regular papers** and **mandatory for tool papers**. The artefacts will be judged by the Artefact Evaluation Committee (AEC). More details can be found on the [artefact page]({{ site.baseurl }}{% link _pages/artefacts.md %}).
 
 ## Publication
 
