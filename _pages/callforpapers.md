@@ -73,8 +73,7 @@ We solicit two categories of papers:
 Papers must be formatted according to the [guidelines for Springer LNCS papers](https://www.springer.com/gp/computer-science/lncs).
 All submissions must be original, unpublished, and not submitted concurrently for publication elsewhere. 
 
-The submission site for papers will be opened soon.
-<!-- [https://easychair.org/conferences/?conf=sefm2023](https://easychair.org/conferences/?conf=sefm2023) -->
+Papers can be submitted through Easychair: [https://easychair.org/conferences/?conf=sefm2023](https://easychair.org/conferences/?conf=sefm2023).
 
 ## Artefact Evaluation
 
