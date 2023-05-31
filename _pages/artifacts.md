@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Artefacts
-permalink: /artefacts/
+title: Artifacts
+permalink: /artifacts/
 order: 6
 ---
 
