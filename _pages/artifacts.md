@@ -16,8 +16,8 @@ This year, SEFM includes an artifact evaluation performed by the artifact evalua
 
 ## Important Dates
 
-- Artefact submission for **tool papers** : 9th of June 2023
-- Artefact submission for **regular papers** : 16th of June 2023
+- Artefact submission for **tool papers** : ~~9 June 2023~~ **23 June 2023**
+- Artefact submission for **regular papers** : ~~16 June 2023~~ **30 June 2023**
 - Author notification: 18th of August 2023
 
 All deadlines are AoE.
