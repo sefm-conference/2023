@@ -29,7 +29,7 @@ The airport has a railway station that is located under Schiphol Plaza.
 The trip takes about 1.5 hours; a ticket costs about &euro;24.
 Tickets are available at the vending machines in Schiphol Plaza.
 
-International trains arriving at Rotterdam (Eurostar from London, Thalys from Paris/Brussels), Utrecht (ICE from Frankfurt, international train from Berlin) or Venlo (regional train from D&uuml;sseldorf) also have excellent connections to Eindhoven.
+International trains arriving at Rotterdam (Eurostar from London, Thalys from Paris/Brussels) or Venlo (regional train from Hamm and D&uuml;sseldorf) also have excellent connections to Eindhoven.
 
 ### Travel by car
 Eindhoven is located next to the A2 and A67 highways, and is thus easy to reach by car.
