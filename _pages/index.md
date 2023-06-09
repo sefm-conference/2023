@@ -30,4 +30,4 @@ All accepted papers have to be presented at the conference.
 - Conference: 8-10 November 2023
 
 ## Sponsors
-![NWO logo](assets/nwo.jpg)
+[![NWO logo]({{ site.baseurl }}{% link assets/nwo.jpg %})](https://nwo.nl/)
