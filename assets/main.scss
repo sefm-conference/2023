@@ -3,3 +3,16 @@
 ---
 
 @import "minima";
+
+.div-float-right {
+  float: right;
+  padding-bottom: 2em;
+  max-width: 50%;
+}
+
+@include media-query($on-palm) {
+  .div-float-right {
+    max-width: 100%;
+  }
+}
+
