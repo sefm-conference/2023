@@ -9,7 +9,7 @@ The 21st edition of the International Conference on Software Engineering and
 Formal Methods will be held between *8 and 10 November 2023*, with workshops taking place on 6 and 7 November 2023.
 
 ## Important dates
-- Abstract submission: ~~2 June 2023~~ **16 June 2023** (AoE)
+- Abstract submission: ~~2 June 2023~~ **18 June 2023** (AoE)
 - Paper submission: ~~9 June 2023~~ **23 June 2023** (AoE)
 - Artifact submission (tool papers): ~~9 June 2023~~ **30 June 2023** (AoE)
 - Artifact submission (regular papers): ~~16 June 2023~~ **30 June 2023** (AoE)
