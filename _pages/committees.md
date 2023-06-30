@@ -46,7 +46,13 @@ order: 4
 [Flip van Spaendonck](https://research.tue.nl/nl/persons/flip-van-spaendonck), Eindhoven University of Technology, The Netherlands
 
 ## Artefact Evaluation Committee
-TBA
+[Guillaume Bertholon](https://www.eleves.ens.fr/home/gbertholon/), Université de Strasbourg, France  
+[Jan Haltermann](https://uol.de/informatik/formale-methoden/team/jan-haltermann), University of Oldenburg, Germany  
+[Manish Goyal](https://manishgcs.github.io/), The University of North Carolina at Chapel Hill, United States  
+[Daniel Pelsmaker](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology/computer-science-engineering-teaching-team/people/daniel-pelsmaeker), Delft University of Technology, The Netherlands  
+[Maya Setyautami](https://www.researchgate.net/profile/Maya-Setyautami), Fakultas Ilmu Komputer Universitas Indonesia, Indonesia  
+[Mohammad Rezaalipout](https://usi.to/469), Università della Svizzera Italiana, Switzerland  
+Tiago Soares, NOVA School of Science and Technology, Portugal
 
 ## Organising Committee
 [Jeroen Keiren](http://jeroenkeiren.nl/), Eindhoven University of Technology, The Netherlands  
