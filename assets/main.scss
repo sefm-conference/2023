@@ -16,3 +16,9 @@
   }
 }
 
+table {
+  width: unset;
+}
+.site-nav .page-link:not(:last-child) {
+  margin-right: 24px;
+}
