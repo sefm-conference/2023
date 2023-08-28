@@ -7,7 +7,7 @@ order: 1
 
 Here you can find information about registration for the conference as well as the regitration fees.
 
-The registration system will open soon. The link will be posted on this page.
+To register for SEFM and sattelite workshops go to [https://www.aanmelder.nl/147738](https://www.aanmelder.nl/147738).
 
 |                                          | early (until 10 Oct) | late (after 11 Oct) |
 | ---------------------------------------- | -------------------- | ------------------- |
