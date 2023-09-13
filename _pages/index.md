@@ -4,6 +4,7 @@ permalink: /
 ---
 
 <h2 class="secondH">* News *</h2>
+* Registration for SEFM and co-located workshops is open. Details are on the [registration page]({{ site.baseurl }}{% link _pages/registration.md %}).
 * The submission deadline has been extended by two weeks. See below for the new dates.
 
 <h2 class="secondH">Welcome to SEFM 2023</h2>
