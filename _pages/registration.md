@@ -9,7 +9,7 @@ Here you can find information about registration for the conference as well as t
 
 To register for SEFM and sattelite workshops go to [https://www.aanmelder.nl/147738](https://www.aanmelder.nl/147738).
 
-|                                          | early (until 10 Oct) | late (after 11 Oct) |
+|                                          | early (until 17 Oct) | late (after 18 Oct) |
 | ---------------------------------------- | -------------------- | ------------------- |
 | Conference                               |  € 600               |  € 640              |
 | Conference + one workshop day            |  € 750               |  € 790              |

@@ -4,6 +4,7 @@ permalink: /
 ---
 
 <h2 class="secondH">* News *</h2>
+* The early-bird discount period has been extended by one week. Now available until 17 October.
 * Registration for SEFM and co-located workshops is open. Details are on the [registration page]({{ site.baseurl }}{% link _pages/registration.md %}).
 * The submission deadline has been extended by two weeks. See below for the new dates.
 
