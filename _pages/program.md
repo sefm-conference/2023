@@ -62,7 +62,7 @@ order: 2
   </tbody>
 </table>
 
-<h2><b>Day 2 Thursday 9 December 2023</b></h2>
+<h2><b>Day 2 Thursday 9 November 2023</b></h2>
 
 <table>
   <tbody><tr></tr>
@@ -106,7 +106,7 @@ order: 2
   </tbody>
 </table>
 
-<h2><b>Day 3 Friday 10 December 2023</b></h2>
+<h2><b>Day 3 Friday 10 November 2023</b></h2>
 
 <table>
   <tbody><tr></tr>
