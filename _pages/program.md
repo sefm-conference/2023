@@ -122,8 +122,8 @@ order: 2
       <td>11:00-12:30</td>
       <td>
         <p><strong>Session 6: Analysis and Verification (II)</strong></p>
-        <p><em>Decoupled Fitness Criteria for Reactive Systems</em><br />Derek Egolf and Stavros Tripakis</p>
         <p><em>Attack time analysis in dynamic attack trees via integer linear programming</em><br />Milan Lopuhaä-Zwakenberg and Mariëlle Stoelinga</p>
+        <p><em>Decoupled Fitness Criteria for Reactive Systems</em><br />Derek Egolf and Stavros Tripakis</p>
         <p><em>Ranged Program Analysis via Instrumentation</em><br />Jan Haltermann, Marie-Christine Jakobs, Cedric Richter and Heike Wehrheim</p>
       </td>
     </tr>
