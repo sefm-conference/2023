@@ -5,7 +5,7 @@ permalink: /keynotes/
 order: 3
 ---
 
-## [Burcu Ozkan](https://burcuku.github.io/home/), TU Delft
+## [Burcu Kulahcioglu Ozkan](https://burcuku.github.io/home/), TU Delft
 
 <img src="{{ site.baseurl }}{% link assets/burcu.jpg %}" class="imageSpeaker" align="right"/>
 
