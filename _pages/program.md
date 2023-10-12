@@ -112,7 +112,7 @@ order: 2
   <tbody><tr></tr>
     <tr>
       <td>09:30-10:30</td>
-      <td><strong>Randomized Testing of Distributed Systems</strong> (keynote)<br />Burcu Ozkan</td>
+      <td><strong>Randomized Testing of Distributed Systems</strong> (keynote)<br />Burcu Kulahcioglu Ozkan</td>
     </tr>
     <tr>
       <td>10:30-11:00</td>
