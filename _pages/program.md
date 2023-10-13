@@ -4,13 +4,20 @@ title: Program
 permalink: /program/
 order: 2
 ---
+
+Below is the main program of SEFM. Details on the workshop program can be found [here]({{ site.baseurl }}{% link _pages/workshops.md %}).
+
 <h2><b>DAY 1 Wednesday 8 November 2023</b></h2>
 
 <table>
-  <tbody>
+  <tbody><tr></tr>
+    <tr>
+      <td>09:00-09:30</td>
+      <td>registration &amp; coffee</td>
+    </tr>
     <tr>
       <td>09:20-09:30</td>
-      <td>opening</td>
+      <td><strong>opening</strong></td>
     </tr>
     <tr>
       <td>09:30-10:30</td>
@@ -65,7 +72,11 @@ order: 2
 <h2><b>Day 2 Thursday 9 November 2023</b></h2>
 
 <table>
-  <tbody><tr></tr>
+  <tbody>
+    <tr>
+      <td>09:00-09:30</td>
+      <td>walk-in with coffee</td>
+    </tr>
     <tr>
       <td>09:30-10:30</td>
       <td><strong>Safe and Secure Programming Abstractions for Decentralized Software</strong> (keynote)<br />Mira Mezini</td>
@@ -109,7 +120,11 @@ order: 2
 <h2><b>Day 3 Friday 10 November 2023</b></h2>
 
 <table>
-  <tbody><tr></tr>
+  <tbody>
+    <tr>
+      <td>09:00-09:30</td>
+      <td>walk-in with coffee</td>
+    </tr>
     <tr>
       <td>09:30-10:30</td>
       <td><strong>Randomized Testing of Distributed Systems</strong> (keynote)<br />Burcu Kulahcioglu Ozkan</td>

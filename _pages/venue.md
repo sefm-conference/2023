@@ -6,8 +6,10 @@ order: 8
 ---
 SEFM 2023 will take place at Eindhoven University of Technology (TU/e) in The Netherlands.
 The university is located about 5 minutes from Eindhoven train station by foot.
-The main conference will take place in the building *Zwarte Doos* ([map](https://goo.gl/maps/nkBTMuhCdvaaH2zv6)), in the movie theatre on the first floor.
-Sattelite workshops on Monday and Tuesday are located in the building *Metaforum* ([map](https://goo.gl/maps/3Us9RFGX7gGAJFEA7)).
+
+- **The main conference** will take place in the building *Zwarte Doos* ([map](https://goo.gl/maps/nkBTMuhCdvaaH2zv6)), in the movie theatre on the first floor.
+- **Sattelite workshops** on Monday and Tuesday are located in the building *Metaforum* ([map](https://goo.gl/maps/3Us9RFGX7gGAJFEA7)), see the page on [workshops]({{ site.baseurl }}{% link _pages/workshops.md %}) for more info.
+
 A PDF map of the university campus can be found [here](https://assets.w3.tue.nl/w/fileadmin/tue/Afbeeldingen/TUe_Map_12-2022.pdf).
 
 ## Travelling to Eindhoven
