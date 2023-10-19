@@ -79,7 +79,11 @@ Below is the main program of SEFM. Details on the workshop program can be found 
     </tr>
     <tr>
       <td>09:30-10:30</td>
-      <td><strong>Safe and Secure Programming Abstractions for Decentralized Software</strong> (keynote)<br />Mira Mezini</td>
+      <td>
+        <p><strong>Session 4: Refinement and Refactoring</strong></p>
+        <p><em>Refinements for Open Automata</em><br />Rabéa Ameur-Boulifa, Quentin Corradi, Henrio Ludovic and Madelaine Eric</p>
+        <p><em>Refactoring of Multi-Instance BPMN Processes with Time and Resources</em><br />Quentin Nivon and Gwen Salaün</p>
+      </td>
     </tr>
     <tr>
       <td>10:30-11:00</td>
@@ -88,7 +92,7 @@ Below is the main program of SEFM. Details on the workshop program can be found 
     <tr>
       <td>11:00-12:30</td>
       <td>
-        <p><strong>Session 4: Foundations and Correctness</strong></p>
+        <p><strong>Session 5: Foundations and Correctness</strong></p>
         <p><em>A Formalization of Heisenbugs and Their Causes</em><br />Sarah Sallinger, Georg Weissenbacher and Florian Zuleger</p>
         <p><em>ATM: a Logic for Quantitative Security Properties on Attack Trees</em><br />Stefano Nicoletti, Milan Lopuhaä-Zwakenberg, Ernst Moritz Hahn and Marielle Stoelinga</p>
         <p><em>Verifying Read-Copy Update under RC11</em><br />Mikhail Semenyuk, Mark Batty and Brijesh Dongol</p>
@@ -100,11 +104,7 @@ Below is the main program of SEFM. Details on the workshop program can be found 
     </tr>
     <tr>
       <td>13:30-14:30</td>
-      <td>
-        <p><strong>Session 5: Refinement and Refactoring</strong></p>
-        <p><em>Refinements for Open Automata</em><br />Rabéa Ameur-Boulifa, Quentin Corradi, Henrio Ludovic and Madelaine Eric</p>
-        <p><em>Refactoring of Multi-Instance BPMN Processes with Time and Resources</em><br />Quentin Nivon and Gwen Salaün</p>
-      </td>
+      <td><strong>Safe and Secure Programming Abstractions for Decentralized Software</strong> (keynote)<br />Mira Mezini</td>
     </tr>
     <tr>
       <td>15:00-17:00</td>
