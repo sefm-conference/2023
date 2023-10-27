@@ -37,4 +37,10 @@ Examples include (but are not limited to):
 * physical assault (including unwelcome touch or groping);
 * real or implied threat of physical harm;
 * real or implied threat of professional or financial damage or harm.
-* Harassment committed in a joking manner or disguised as a compliment still constitutes unacceptable behavior. 
+* Harassment committed in a joking manner or disguised as a compliment still constitutes unacceptable behavior.
+
+## Contact
+If you are subjected to unacceptable behaviour or observe that someone else is being subjected to unacceptable behaviour, please approach:
+* Flip van Spaendonck ([p.h.m.v.spaendonck@tue.nl](mailto:p.h.m.v.spaendonck@tue.nl)), or
+* Anna Stramaglia ([a.stramaglia@tue.nl](mailto:a.stramaglia@tue.nl)), or
+* any other staff of the local organizing team or at the registration desk, who will provide assistance.
