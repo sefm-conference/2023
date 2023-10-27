@@ -112,7 +112,7 @@ Below is the main program of SEFM. Details on the workshop program can be found 
     </tr>
     <tr>
       <td>18:00-21:30</td>
-      <td>dinner at <a href="https://stories-eindhoven.nl/">Stories Eindhoven</a> (<a href="https://maps.app.goo.gl/yyt3ePQd8yZR8TqV7">Google maps</a>)</td>
+      <td>banquet at <a href="https://stories-eindhoven.nl/">Stories Eindhoven</a> (<a href="https://maps.app.goo.gl/yyt3ePQd8yZR8TqV7">Google maps</a>)</td>
     </tr>
   </tbody>
 </table>
