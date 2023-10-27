@@ -28,8 +28,13 @@ All details can be found on the respective pages of [DataMod](https://datamod202
     </thead>
     <tbody>
         <tr>
-            <td>08:30-09:00</td>
+            <td>08:30-08:45</td>
             <td>registration &amp; tea/coffee</td>
+        </tr>
+        <tr></tr>
+        <tr>
+            <td>08:45-09:00</td>
+            <td>opening DataMod & OpenCERT</td>
         </tr>
         <tr>
             <td>09:00-10:00</td>
