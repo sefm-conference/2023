@@ -5,7 +5,8 @@ permalink: /program/
 order: 2
 ---
 
-Below is the main program of SEFM. Details on the workshop program can be found [here]({{ site.baseurl }}{% link _pages/workshops.md %}).
+Below is the main program of SEFM, to take place in the *Zwarte Doos*, see the page [venue]({{ site.baseurl }}{% link _pages/venue.md %}).
+Details on the workshop program can be found [here]({{ site.baseurl }}{% link _pages/workshops.md %}).
 
 <h2><b>DAY 1 Wednesday 8 November 2023</b></h2>
 
