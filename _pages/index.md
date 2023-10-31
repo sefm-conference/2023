@@ -4,6 +4,7 @@ permalink: /
 ---
 
 <h2 class="secondH">* News *</h2>
+* The proceedings of SEFM 2023 are now [available via Springer](https://link.springer.com/book/10.1007/978-3-031-47115-5).
 * The early-bird discount period has been extended by one week. Now available until 17 October.
 * Registration for SEFM and co-located workshops is open. Details are on the [registration page]({{ site.baseurl }}{% link _pages/registration.md %}).
 * The submission deadline has been extended by two weeks. See below for the new dates.
@@ -18,8 +19,7 @@ to facilitate their uptake in the software industry, and to encourage their
 integration within practical software engineering methods and tools.
 
 ### Conference proceedings
-As usual, the SEFM conference proceedings will be published in Springer's *Lecture Notes in Computer Science* series.
-All accepted papers have to be presented at the conference.
+The SEFM conference proceedings have been published in Springer's *Lecture Notes in Computer Science* series, and are available [here](https://link.springer.com/book/10.1007/978-3-031-47115-5).
 
 ## Important dates
 - Abstract submission: ~~2 June 2023~~ **18 June 2023** (AoE)
