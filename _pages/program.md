@@ -22,7 +22,7 @@ Details on the workshop program can be found [here]({{ site.baseurl }}{% link _p
     </tr>
     <tr>
       <td>09:30-10:30</td>
-      <td><strong>Context-aware Trace Contracts</strong> (keynote)<br />Reiner Hähnle</td>
+      <td><strong>Context-aware Trace Contracts</strong> (keynote), chair: Tim Willemse<br />Reiner Hähnle</td>
     </tr>
     <tr>
       <td>10:30-11:00</td>
@@ -31,7 +31,7 @@ Details on the workshop program can be found [here]({{ site.baseurl }}{% link _p
     <tr>
       <td>11:00-12:30</td>
       <td>
-        <p><strong>Session 1: Contracts in Software Development</strong></p>
+        <p><strong>Session 1: Contracts in Software Development.</strong> chair: Jan Friso Groote</p>
         <p><em>SSCalc - A Calculus for Solidity Smart Contracts</em><br />Diego Marmsoler and Billy Thornton</p>
         <p><em>Capturing Smart Contract Design with DCR Graphs</em><br />Mojtaba Eshghie, Wolfgang Ahrendt, Cyrille Valentin Artho, Thomas Hildebrandt and Gerardo Schneider</p>
         <p><em>An Active Learning Approach to Synthesizing Program Contracts</em><br />Sandip Ghosal, Bengt Jonsson and Philipp Ruemmer</p>
@@ -44,7 +44,7 @@ Details on the workshop program can be found [here]({{ site.baseurl }}{% link _p
     <tr>
       <td>13:30-15:00</td>
       <td>
-        <p><strong>Session 2: Machine learning in Software Engineering</strong></p>
+        <p><strong>Session 2: Machine learning in Software Engineering.</strong> chair: Thomas Neele</p>
         <p><em>Exact and Efficient Bayesian Inference for Privacy Risk Quantification</em><br />Rasmus Carl Rønneberg, Raul Pardo and Andrzej Wasowski</p>
         <p><em>Guiding Symbolic Execution with A-star</em><br />Theo De Castro Pinto, Antoine Rollet, Grégoire Sutre and Ireneusz Tobor</p>
         <p><em>QNNREPAIR: Scalable Quantized Neural Network Repair</em><br />Xidan Song, Youcheng Sun, Mustafa Mustafa and Lucas Cordeiro</p>
@@ -57,7 +57,7 @@ Details on the workshop program can be found [here]({{ site.baseurl }}{% link _p
     <tr>
       <td>15:30-17:00</td>
       <td>
-        <p><strong>Session 3: Analysis and Verification (I)</strong></p>
+        <p><strong>Session 3: Analysis and Verification (I)</strong> chair: Gwen Salaün</p>
         <p><em>Verified Scalable Parallel Computing with Why3</em><br />Olivia Proust and Frederic Loulergue</p>
         <p><em>The Cubicle Fuzzy Loop: A Fuzzing-Based Extension for the Cubicle Model Checker</em><br />Sylvain Conchon and Alexandrina Korneva</p>
         <p><em>Interactive visualization meets probabilistic model checking</em><br />Max Korn, Julián Méndez, Sascha Klüppelholz, Ricardo Langner, Christel Baier and Raimund Dachselt</p>
@@ -81,7 +81,7 @@ Details on the workshop program can be found [here]({{ site.baseurl }}{% link _p
     <tr>
       <td>09:30-10:30</td>
       <td>
-        <p><strong>Session 4: Refinement and Refactoring</strong></p>
+        <p><strong>Session 4: Refinement and Refactoring</strong> chair: Jeroen Keiren</p>
         <p><em>Refinements for Open Automata</em><br />Rabéa Ameur-Boulifa, Quentin Corradi, Henrio Ludovic and Madelaine Eric</p>
         <p><em>Refactoring of Multi-Instance BPMN Processes with Time and Resources</em><br />Quentin Nivon and Gwen Salaün</p>
       </td>
@@ -93,7 +93,7 @@ Details on the workshop program can be found [here]({{ site.baseurl }}{% link _p
     <tr>
       <td>11:00-12:30</td>
       <td>
-        <p><strong>Session 5: Foundations and Correctness</strong></p>
+        <p><strong>Session 5: Foundations and Correctness</strong> chair: Burcu Kulahcioglu Ozkan</p>
         <p><em>A Formalization of Heisenbugs and Their Causes</em><br />Sarah Sallinger, Georg Weissenbacher and Florian Zuleger</p>
         <p><em>Verifying Read-Copy Update under RC11</em><br />Mikhail Semenyuk, Mark Batty and Brijesh Dongol</p>
         <p><em>ATM: a Logic for Quantitative Security Properties on Attack Trees</em><br />Stefano Nicoletti, Milan Lopuhaä-Zwakenberg, Ernst Moritz Hahn and Marielle Stoelinga</p>
@@ -105,7 +105,7 @@ Details on the workshop program can be found [here]({{ site.baseurl }}{% link _p
     </tr>
     <tr>
       <td>13:30-14:30</td>
-      <td><strong>Safe and Secure Programming Abstractions for Decentralized Software</strong> (keynote)<br />Mira Mezini</td>
+      <td><strong>Safe and Secure Programming Abstractions for Decentralized Software</strong> (keynote), chair: Carla Ferreira<br />Mira Mezini</td>
     </tr>
     <tr>
       <td>15:00-17:00</td>
@@ -128,7 +128,7 @@ Details on the workshop program can be found [here]({{ site.baseurl }}{% link _p
     </tr>
     <tr>
       <td>09:30-10:30</td>
-      <td><strong>Randomized Testing of Distributed Systems</strong> (keynote)<br />Burcu Kulahcioglu Ozkan</td>
+      <td><strong>Randomized Testing of Distributed Systems</strong> (keynote), chair: Tim Willemse<br />Burcu Kulahcioglu Ozkan</td>
     </tr>
     <tr>
       <td>10:30-11:00</td>
@@ -137,7 +137,7 @@ Details on the workshop program can be found [here]({{ site.baseurl }}{% link _p
     <tr>
       <td>11:00-12:30</td>
       <td>
-        <p><strong>Session 6: Analysis and Verification (II)</strong></p>
+        <p><strong>Session 6: Analysis and Verification (II)</strong>. chair: Carla Ferreira</p>
         <p><em>Attack time analysis in dynamic attack trees via integer linear programming</em><br />Milan Lopuhaä-Zwakenberg and Mariëlle Stoelinga</p>
         <p><em>Decoupled Fitness Criteria for Reactive Systems</em><br />Derek Egolf and Stavros Tripakis</p>
         <p><em>Ranged Program Analysis via Instrumentation</em><br />Jan Haltermann, Marie-Christine Jakobs, Cedric Richter and Heike Wehrheim</p>
@@ -150,7 +150,7 @@ Details on the workshop program can be found [here]({{ site.baseurl }}{% link _p
     <tr>
       <td>13:30-14:30</td>
       <td>
-        <p><strong>Session 7: Predictability of Verification Tools</strong></p>
+        <p><strong>Session 7: Predictability of Verification Tools</strong>. chair: Antonio Cerone</p>
         <p><em>Robustness Testing of Software Verifiers</em><br />Florian Dyck, Cedric Richter and Heike Wehrheim</p>
         <p><em>Timeout Prediction for Software Analyses</em><br />Nicola Thoben, Jan Haltermann and Heike Wehrheim</p>
       </td>
