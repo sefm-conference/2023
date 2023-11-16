@@ -96,7 +96,7 @@ Details on the workshop program can be found [here]({{ site.baseurl }}{% link _p
         <p><strong>Session 5: Foundations and Correctness</strong> chair: Burcu Kulahcioglu Ozkan</p>
         <p><em>A Formalization of Heisenbugs and Their Causes</em><br />Sarah Sallinger, Georg Weissenbacher and Florian Zuleger</p>
         <p><em>Verifying Read-Copy Update under RC11</em><br />Mikhail Semenyuk, Mark Batty and Brijesh Dongol</p>
-        <p><em>ATM: a Logic for Quantitative Security Properties on Attack Trees</em><br />Stefano Nicoletti, Milan Lopuhaä-Zwakenberg, Ernst Moritz Hahn and Marielle Stoelinga</p>
+        <p><em>ATM: a Logic for Quantitative Security Properties on Attack Trees</em><br />Stefano Nicoletti, Milan Lopuhaä-Zwakenberg, Ernst Moritz Hahn and Marielle Stoelinga<br />(<strong>winner of the best paper award</strong>)</p>
       </td>
     </tr>
     <tr>

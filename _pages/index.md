@@ -4,6 +4,12 @@ permalink: /
 ---
 
 <h2 class="secondH">* News *</h2>
+* The SEFM 2023 best paper award is won by the paper  
+  
+  > ATM: a Logic for Quantitative Security Properties on Attack Trees  
+  > by Stefano Nicoletti, Milan Lopuhaä-Zwakenberg, Ernst Moritz Hahn and Marielle Stoelinga.
+  
+  Congratulations to these authors!
 * The proceedings of SEFM 2023 are now [available via Springer](https://link.springer.com/book/10.1007/978-3-031-47115-5).
 * The early-bird discount period has been extended by one week. Now available until 17 October.
 * Registration for SEFM and co-located workshops is open. Details are on the [registration page]({{ site.baseurl }}{% link _pages/registration.md %}).
