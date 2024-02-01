@@ -39,3 +39,4 @@ The SEFM conference proceedings have been published in Springer's *Lecture Notes
 
 ## Sponsors
 [![NWO logo]({{ site.baseurl }}{% link assets/nwo.jpg %})](https://nwo.nl/)
+[![EAPLS logo]({{ site.baseurl }}{% link assets/EAPLS_logo.jpg %})](https://eapls.org/)
