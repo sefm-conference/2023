@@ -14,7 +14,7 @@ organised by Alessandro Aldini (University of Urbino Carlo Bo, Italy).
 - [DataMod 2023](https://datamod2023.github.io/), **6-7 November**: *11th International Symposium - From Data to Models and Back*  
 organised by Giovanna Broccia (CNR, Italy), Antonio Cerone (Nazarbayev University, Kazachstan) and Paolo Milazzo (University of Pisa, Italy).
 
-Joint post-proceedings of OpenCERT and CIFMA will be published in a volume of *Lecture Notes in Computer Science*. DataMod 2023 has its own volume of LNCS.
+Joint post-proceedings of OpenCERT and CIFMA were published by Springer in the *LNCS* series, see [this webpage](https://link.springer.com/book/10.1007/978-3-031-66021-4). DataMod 2023 has its own volume of LNCS.
 
 ## Program
 The outline of the program for the workshops is given below.
